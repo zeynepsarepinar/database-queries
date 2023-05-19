@@ -36,3 +36,5 @@ Write an SQL query to list the total bonus amounts, names, and surnames of emplo
 Write an SQL query to determine the number of employees who have never received a bonus. 
 Write an SQL query to list the names of departments that have more than two employees and the total number of employees in each department.
 
+4)
+Constraints Views and Indexes
