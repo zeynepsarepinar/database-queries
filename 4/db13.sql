@@ -1,0 +1,1 @@
+select * from iki_yuzden_buyuk

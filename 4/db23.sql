@@ -1,0 +1,1 @@
+create index [books3_index] on [dbo].[books2] ( [book_publisher] desc )
