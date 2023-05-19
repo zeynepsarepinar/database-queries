@@ -1,0 +1,8 @@
+insert into calisanlar values('1', 'Ýsmail', 'Ýþeri', '100000', '2014-02-20 00:00:00.000', '1')
+insert into calisanlar values('2', 'Hami', 'Satýlmýþ', '80000', '2014-06-11 00:00:00.000', '1')
+insert into calisanlar values('3', 'Durmuþ', 'Þahin', '300000', '2014-02-20 00:00:00.000', '2')
+insert into calisanlar values('4', 'Kaðan', 'Yazar', '500000', '2014-02-20 00:00:00.000', '3')
+insert into calisanlar values('5', 'Meryem', 'Soysaldý', '500000', '2014-06-11 00:00:00.000', '3')
+insert into calisanlar values('6', 'Duygu', 'Akþehir', '200000', '2014-06-11 00:00:00.000', '2')
+insert into calisanlar values('7', 'Kübra', 'Seyhan', '75000', '2014-01-20 00:00:00.000', '1')
+insert into calisanlar values('8', 'Gülcan', 'Yýldýz', '90000', '2014-04-11 00:00:00.000', '3')

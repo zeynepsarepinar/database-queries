@@ -1,0 +1,8 @@
+insert into unvan values ('Yönetici','2016-02-20 00:00:00.000','1')
+insert into unvan values ('Personel','2016-06-11 00:00:00.000','2')
+insert into unvan values ('Personel','2016-06-11 00:00:00.000','8')
+insert into unvan values ('Müdür','2016-06-11 00:00:00.000','5')
+insert into unvan values ('Yönetici Yardımcısı','2016-06-11 00:00:00.000','4')
+insert into unvan values ('Personel','2016-06-11 00:00:00.000','7')
+insert into unvan values ('Takım Lideri','2016-06-11 00:00:00.000','6')
+insert into unvan values ('Takım Lideri','2016-06-11 00:00:00.000','3')

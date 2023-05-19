@@ -1,0 +1,1 @@
+select unvan_calisan, count(unvan_calisan) as 'Çalýþan Sayýsý' from unvan group by unvan_calisan
