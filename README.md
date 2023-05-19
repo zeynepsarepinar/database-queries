@@ -1,4 +1,5 @@
 # database-queries
+1)
 Completion of SQL Server installation.
 Creation of a database using the provided codes in the document and adding at least 5 tables to this database.
 Utilization of at least 5 data types within each created table.
@@ -8,3 +9,5 @@ Insertion and modification.
 Modification and insertion.
 Deletion and insertion.
 Revoking all privileges from the created user and deleting the user.
+2)
+
