@@ -1,0 +1,1 @@
+create login vtysdeneme with password = '123', default_database = vtysdeneme
